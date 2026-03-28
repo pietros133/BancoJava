@@ -15,10 +15,25 @@ This is a simple banking system developed in Java using Object-Oriented Programm
 * Java
 * OOP (Object-Oriented Programming)
 
-## 📂 Project Structure
+## Project Structure
+```
+src/
+ ├── poo/
+ │    ├── Account.java
+ │    └── teste.java
+ │
+ ├── utils/
+ │    ├── PixValidator.java
+ │    └── RandomNumberGenerator.java
+ │
+ └── Main.java
+```
 
-* `poo` → main business logic
-* `utils` → helper classes (validation, random generator)
+
+poo → main business logic
+utils → helper classes (validation, random generator)
+Main.java → application entry point
+
 
 ## How to Run
 
@@ -27,5 +42,4 @@ This is a simple banking system developed in Java using Object-Oriented Programm
 3. Use the terminal menu
 
 ## Notes
-
-This project was created focused on developing backend logic.
+This project was developed with a focus on backend logic and Object-Oriented Programming principles.
